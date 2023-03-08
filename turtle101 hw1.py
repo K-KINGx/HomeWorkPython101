@@ -16,7 +16,7 @@ def tree(i):
     else:
         t.speed (900)
         t.forward(i)
-        t.color("orange")
+        t.color("pink")
         t.circle(2)
         t.color("brown")
         t.left (30)
